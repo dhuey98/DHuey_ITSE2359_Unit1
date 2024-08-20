@@ -36,7 +36,7 @@ int main() {
         3.7, 3.5, 3.8, 3.6, 3.9
     };
 
-    // Calculate average gpa
+    // Calculate average GPA
     float TotalGPA = 0.0;
     for (int i = 0; i < num_students; i++) {
         TotalGPA += gpas[i];
